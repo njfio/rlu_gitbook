@@ -1,13 +1,5 @@
 ---
-cover: >-
-  .gitbook/assets/DALL·E 2024-05-22 11.22.25 - Create a banner image for a
-  GitBook titled 'RLU_ Rust Logseq Utility'. The design should be modern and
-  clean, featuring the Rust programming language .webp
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -21,6 +13,8 @@ layout:
 ---
 
 # rlu - Rust Logseq Utility
+
+<figure><img src=".gitbook/assets/DALL·E 2024-05-22 11.22.25 - Create a banner image for a GitBook titled &#x27;RLU_ Rust Logseq Utility&#x27;. The design should be modern and clean, featuring the Rust programming language .webp" alt=""><figcaption></figcaption></figure>
 
 `rlu` is a Rust-based command-line utility designed to interact with Logseq, a privacy-first, open-source knowledge base that works on top of local Markdown and Org-mode files. This utility provides various functionalities for managing content in Logseq.
 
